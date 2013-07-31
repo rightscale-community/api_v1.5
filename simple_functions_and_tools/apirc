@@ -1,0 +1,4 @@
+defaults:
+  user: user@example.com
+  pass: password
+  account: 1234
